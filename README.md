@@ -2,4 +2,4 @@
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning Basic of Linux
 - 💞️ I’m looking to collaborate on Cyber Security Community
-- 📫 How to reach me (MY GMAIL:- fenilgalani123@gmail.com)
+- 📫 How to reach me (My Gmail:- fenilgalani123@gmail.com)
