@@ -1,6 +1,6 @@
 # Hello, Folks✌️
 
-Welcome to the Cyber Security Team repository! We are dedicated to enhancing the security posture of our organization and the broader community through collaboration, education, and innovation in cybersecurity practices.
+My name is FENIL GALANI and I'm a Cyber Security enthusiast . I'm from India, living in RAJKOT and currently Studying At ATMIYA UNIVERSITY.
 
 ## About Us
 
