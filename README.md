@@ -44,7 +44,7 @@ I am committed to building a career in cybersecurity, where I can contribute to 
 
 ## 🔧 Technologies & Tools 🧑‍💻
 
-<h3>Things I code with</h3>
+<h3>Things I learn in 2024</h3>
 <p>
  
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
