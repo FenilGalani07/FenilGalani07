@@ -77,21 +77,13 @@ def about_me
 
 ```
 
-## Getting Involved
-
-We welcome contributions from anyone interested in cybersecurity! Here’s how you can get involved:
-
-1. **Fork the Repository**: Create your own copy of this repository to work on.
-2. **Make Changes**: Implement features, fix bugs, or improve documentation.
-3. **Submit a Pull Request**: Share your changes with us for review.
-
-## Resources
-
-Here are some valuable resources for anyone interested in learning more about cybersecurity:
-
-- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - A list of the top ten most critical web application security risks.
-- [Kali Linux](https://www.kali.org/) - A popular Linux distribution for penetration testing and security auditing.
-- [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/) - A U.S. government agency providing resources and guidance on cybersecurity.
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 ## Contact Us
 
