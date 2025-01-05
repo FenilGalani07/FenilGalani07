@@ -49,6 +49,20 @@ def about_me
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
+## &#x1f4c8; GitHub Stats
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shubham14p3&show_icons=true&theme=tokyonight&line_height=27">
+ 
+</p>
+
+</details>
+
 
 ## Projects
 
