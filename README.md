@@ -14,7 +14,7 @@ def about_me
             [
                 '👨‍💻 I have 1 year of Internship experience',
                 '👯 Clash of Clans player, Good Farmer, Marathoner, and an adventurer',
-                '🔭 I’m currently working on my learning period.',
+                '🔭 I’m currently improving my technical skill.',
                 '🌱 I have a crush on Cyber Security.',
                 '🤝 I am a believer',
                 '⚡ I recharge myself on Saturday and Sunday',
