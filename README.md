@@ -31,12 +31,17 @@ def about_me
 - **Vulnerability Management**: Regularly assess and remediate vulnerabilities in our infrastructure.
 - **Incident Response**: Develop and implement effective incident response plans to minimize the impact of security breaches.
 
-## Team Members
+## 🔧 Technologies & Tools 🧑‍💻
 
-- **Alice Smith** - Cybersecurity Analyst
-- **Bob Johnson** - Penetration Tester
-- **Charlie Brown** - Security Engineer
-- **Diana Prince** - Compliance Officer
+<h3>Things I code with</h3>
+<p>
+ 
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Amazon Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+
 
 ## Projects
 
@@ -73,4 +78,4 @@ Thank you for visiting our repository! Together, we can make the digital world a
 
 ---
 
-*This README was last updated on [Insert Date].*
+
