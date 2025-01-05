@@ -24,7 +24,7 @@ def about_me
 } 
 ```
 
-### Our Goals
+### My Goals
 
 - **Threat Detection and Response:-** Identify and mitigate potential threats to our systems and data.
 - **Security Awareness:-** Educate employees and the community about cybersecurity best practices.
