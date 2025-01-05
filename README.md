@@ -64,13 +64,17 @@ def about_me
 </details>
 
 
-## Projects
+<!--START_SECTION:waka-->
 
-We are involved in various projects aimed at improving our cybersecurity capabilities. Here are some of our key initiatives:
+**I'm a Night 🦉**
 
-- **Vulnerability Assessment Tool**: A tool to automate the scanning and reporting of vulnerabilities in our systems.
-- **Security Awareness Training**: A series of training modules designed to educate employees about cybersecurity risks and best practices.
-- **Incident Response Playbook**: A comprehensive guide outlining our procedures for responding to security incidents.
+```text
+🌞 Morning    56+ commits     ████░░░░░░░░░░░░░░░░░░░░░
+🌆 Daytime    183+ commits    ███████░░░░░░░░░░░░░░░░░░
+🌃 Evening    294+ commits    ██████████░░░░░░░░░░░░░░░
+🌙 Night      617+ commits    █████████████████░░░░░░░░
+
+```
 
 ## Getting Involved
 
