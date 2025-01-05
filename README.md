@@ -1,5 +1,5 @@
 def about_me
-  shubham_raj = {
+  Fenil Galani = {
     scanningFor: ["Any Cyber Security Roles", "Networking Related Roles"],
     due_challenges: "Make 2025 Memorable",
     iLove: ["Tech Related News", "Space Docs", "Learning", "Cooking", "Cycling", "Hackathons", "Movies"],
