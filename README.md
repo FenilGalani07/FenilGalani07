@@ -30,14 +30,13 @@ def about_me
 - **Security Awareness:-** Educate employees and the community about cybersecurity best practices.
 - **Vulnerability Management:-** Regularly assess and remediate vulnerabilities in our infrastructure.
 - **Incident Response:-** Develop and implement effective incident response plans to minimize the impact of security breaches.
-- **Enhancing Data Confidentiality:-**Implementing robust encryption methods.Strengthening access controls and identity management.
-- **Ensuring System Integrity:-**Regularly updating and patching systems to mitigate vulnerabilities.Conducting thorough security assessments and audits.
-- **Maintaining Availability:-**Developing comprehensive incident response plans.Ensuring redundancy and failover mechanisms are in place.
-- **Proactive Threat Hunting:-**Utilizing AI-driven threat detection systems to identify potential threats.Establishing automated threat intelligence platforms for continuous monitoring.
-- **Adopting Cyber Insurance:-**Recognizing the need for financial protection against cyber incidents.Tailoring cyber insurance policies to specific industry risks.
-- **Addressing Remote Work Risks:-**Implementing strong security protocols for remote access, such as multi-factor authentication (MFA).Educating employees on cybersecurity best practices to mitigate insider threats.
-- **Securing Cloud Environments:-**Focusing on cloud-native security measures to protect against data breaches.Regularly reviewing and updating cloud configurations to prevent misconfigurations.
-- **Integrating Zero-Trust Architecture:-**Adopting a "never trust, always verify" approach to secure sensitive data.Continuously verifying user identities and device security.
+- **Enhancing Data Confidentiality:-** Implementing robust encryption methods.Strengthening access controls and identity management.
+- **Ensuring System Integrity:-** Regularly updating and patching systems to mitigate vulnerabilities.Conducting thorough security assessments and audits.
+- **Maintaining Availability:-** Developing comprehensive incident response plans.Ensuring redundancy and failover mechanisms are in place.
+- **Proactive Threat Hunting:-** Utilizing AI-driven threat detection systems to identify potential threats.Establishing automated threat intelligence platforms for continuous monitoring.
+- **Addressing Remote Work Risks:-** mplementing strong security protocols for remote access, such as multi-factor authentication (MFA).Educating employees on cybersecurity best practices to mitigate insider threats.
+- **Securing Cloud Environments:-** Focusing on cloud-native security measures to protect against data breaches.Regularly reviewing and updating cloud configurations to prevent misconfigurations.
+- **Integrating Zero-Trust Architecture:-** Adopting a "never trust, always verify" approach to secure sensitive data.Continuously verifying user identities and device security.
 
 ## 🔧 Technologies & Tools 🧑‍💻
 
