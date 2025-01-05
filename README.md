@@ -6,20 +6,22 @@ My name is FENIL GALANI and I'm a Cyber Security enthusiast. I'm from India, liv
 
 ```javascript
 def about_me
-  shubham_raj = {
-    scanningFor: "Front-End web developer" || "Back-end developer " || "Full-Stack Developer",
-    due_challenges: "Diving into GraphQL and AWS",
-    iLove: ["Tech Related News, Space Docs, Learning, Cooking],
-    funFacts: [
-      '👨‍💻 I have 4.8 year of remote dev experience',
-      '👯 Volleyball player, Hill climber, Marathoner and an adventurer',
-      '🔭 I’m currently working on strengthing my backend :wink:'
-      '🌱 I have a crush on ML/AI Tech.',
-      '🤝 I am a believer ',
-      '⚡ I recharge myself on saturday and sunday'
-     ]
-  }
-end
+    Fenil Galani ={
+    scanningFor: ["Any Cyber Security Roles", "Networking Related Roles"],
+    due_challenges: "Make 2025 Memorable",
+    iLove: ["Tech Related News", "Space Docs", "Learning", "Cooking", "Cycling", "Hackathons", "Movies"],
+    funFacts:
+            [
+                '👨‍💻 I have 1 year of Internship experience',
+                '👯 Clash of Clans player, Good Farmer, Marathoner, and an adventurer',
+                '🔭 I’m currently working on my learning period.',
+                '🌱 I have a crush on Cyber Security.',
+                '🤝 I am a believer',
+                '⚡ I recharge myself on Saturday and Sunday',
+                '🌙 I am a Night Owl',
+                '🧩 I am a Problem Solver'
+            ]
+} 
 ```
 
 ### Our Goals
