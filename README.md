@@ -27,20 +27,68 @@ def about_me
 } 
 ```
 
-### My Professional Aspirations Goals:-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Aspirations in Cybersecurity</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #007BFF;
+        }
+        h2 {
+            color: #0056b3;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .goal {
+            font-weight: bold;
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
 
-I am committed to building a career in cybersecurity, where I can contribute to safeguarding organizations against evolving cyber threats. My goal is to leverage my knowledge and skills to develop innovative security solutions that protect sensitive data and ensure the integrity of information systems. I am particularly interested in areas such as:
+    <h1>My Professional Aspirations in Cybersecurity</h1>
+    <p>I am committed to building a career in cybersecurity, where I can contribute to safeguarding organizations against evolving cyber threats. My goal is to leverage my knowledge and skills to develop innovative security solutions that protect sensitive data and ensure the integrity of information systems. I am particularly interested in areas such as:</p>
 
-- **Threat Detection and Response:-** Identify and mitigate potential threats to our systems and data.
-- **Security Awareness:-** Educate employees and the community about cybersecurity best practices.
-- **Vulnerability Management:-** Regularly assess and remediate vulnerabilities in our infrastructure.
-- **Incident Response:-** Develop and implement effective incident response plans to minimize the impact of security breaches.
-- **Enhancing Data Confidentiality:-** Implementing robust encryption methods.Strengthening access controls and identity management.
-- **Ensuring System Integrity:-** Regularly updating and patching systems to mitigate vulnerabilities.Conducting thorough security assessments and audits.
-- **Maintaining Availability:-** Developing comprehensive incident response plans.Ensuring redundancy and failover mechanisms are in place.
-- **Proactive Threat Hunting:-** Utilizing AI-driven threat detection systems to identify potential threats.Establishing automated threat intelligence platforms for continuous monitoring.
-- **Securing Cloud Environments:-** Focusing on cloud-native security measures to protect against data breaches.Regularly reviewing and updating cloud configurations to prevent misconfigurations.
-- **Integrating Zero-Trust Architecture:-** Adopting a "never trust, always verify" approach to secure sensitive data.Continuously verifying user identities and device security.
+    <h2>Areas of Interest</h2>
+    <ul>
+        <li><span class="goal">Threat Detection and Response:</span> Identify and mitigate potential threats to our systems and data.</li>
+        <li><span class="goal">Security Awareness:</span> Educate employees and the community about cybersecurity best practices.</li>
+        <li><span class="goal">Vulnerability Management:</span> Regularly assess and remediate vulnerabilities in our infrastructure.</li>
+        <li><span class="goal">Incident Response:</span> Develop and implement effective incident response plans to minimize the impact of security breaches.</li>
+        <li><span class="goal">Enhancing Data Confidentiality:</span> Implementing robust encryption methods. Strengthening access controls and identity management.</li>
+        <li><span class="goal">Ensuring System Integrity:</span> Regularly updating and patching systems to mitigate vulnerabilities. Conducting thorough security assessments and audits.</li>
+        <li><span class="goal">Maintaining Availability:</span> Developing comprehensive incident response plans. Ensuring redundancy and failover mechanisms are in place.</li>
+        <li><span class="goal">Proactive Threat Hunting:</span> Utilizing AI-driven threat detection systems to identify potential threats. Establishing automated threat intelligence platforms for continuous monitoring.</li>
+        <li><span class="goal">Securing Cloud Environments:</span> Focusing on cloud-native security measures to protect against data breaches. Regularly reviewing and updating cloud configurations to prevent misconfigurations.</li>
+        <li><span class="goal">Integrating Zero-Trust Architecture:</span> Adopting a "never trust, always verify" approach to secure sensitive data. Continuously verifying user identities and device security.</li>
+    </ul>
+
+</body>
+</html>
 
 ## 🔧 Technologies & Tools 🧑‍💻
 
