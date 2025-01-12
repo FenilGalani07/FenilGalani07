@@ -80,7 +80,6 @@ I am committed to building a career in cybersecurity, where I can contribute to 
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
     <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-    <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="SQL" alt="SQL" height=40
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
     <img title="Bootstrap" alt="Bootstrap" height=40
