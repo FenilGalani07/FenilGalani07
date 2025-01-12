@@ -39,8 +39,10 @@ class Program
         List<string> cybersecurityRoles = new List<string>
         {
             "Cyber Security Analyst",
+            "Ethical Hacker"
             "Network Security Engineer",
             "Penetration Tester",
+            "Bug Hunter",
             "Security Consultant",
             "Incident Responder",
             "Threat Intelligence Analyst",
