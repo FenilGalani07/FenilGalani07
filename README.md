@@ -26,7 +26,10 @@ def about_me
             ]
 } 
 ```
-### Open For...
+
+### My Professional Aspirations Goals:-
+
+I am committed to building a career in cybersecurity, where I can contribute to safeguarding organizations against evolving cyber threats. My goal is to leverage my knowledge and skills to develop innovative security solutions that protect sensitive data and ensure the integrity of information systems. I am particularly interested in areas such as:
 
 ```Csharp
 using System;
@@ -38,13 +41,20 @@ class Program
     {
         List<string> cybersecurityRoles = new List<string>
         {
-            "Cyber Security Analyst",
-            "Ethical Hacker"
-            "Network Security Engineer",
+            "Ethical Hacker",
             "Penetration Tester",
             "Bug Hunter",
+            "Security Awareness",
+            "Cyber Security Analyst",
+            "Network Security Engineer",
+            "Integrating Zero-Trust Architecture",
             "Security Consultant",
+            "Ensuring System Integrity",
+            "Securing Cloud Environments",
+            "Enhancing Data Confidentiality",      
             "Incident Responder",
+            "Vulnerability Management",
+            "Threat Detection and Response",
             "Threat Intelligence Analyst",
             "Security Architect",
             "Compliance Analyst"
@@ -53,20 +63,6 @@ class Program
 }
 ```
 
-### My Professional Aspirations Goals:-
-
-I am committed to building a career in cybersecurity, where I can contribute to safeguarding organizations against evolving cyber threats. My goal is to leverage my knowledge and skills to develop innovative security solutions that protect sensitive data and ensure the integrity of information systems. I am particularly interested in areas such as:
-
-- **Threat Detection and Response:-** Identify and mitigate potential threats to our systems and data.
-- **Security Awareness:-** Educate employees and the community about cybersecurity best practices.
-- **Vulnerability Management:-** Regularly assess and remediate vulnerabilities in our infrastructure.
-- **Incident Response:-** Develop and implement effective incident response plans to minimize the impact of security breaches.
-- **Enhancing Data Confidentiality:-** Implementing robust encryption methods.Strengthening access controls and identity management.
-- **Ensuring System Integrity:-** Regularly updating and patching systems to mitigate vulnerabilities.Conducting thorough security assessments and audits.
-- **Maintaining Availability:-** Developing comprehensive incident response plans.Ensuring redundancy and failover mechanisms are in place.
-- **Proactive Threat Hunting:-** Utilizing AI-driven threat detection systems to identify potential threats.Establishing automated threat intelligence platforms for continuous monitoring.
-- **Securing Cloud Environments:-** Focusing on cloud-native security measures to protect against data breaches.Regularly reviewing and updating cloud configurations to prevent misconfigurations.
-- **Integrating Zero-Trust Architecture:-** Adopting a "never trust, always verify" approach to secure sensitive data.Continuously verifying user identities and device security.
 
 ## 🔧 Technologies & Tools 🧑‍💻
 
