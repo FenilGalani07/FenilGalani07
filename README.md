@@ -28,7 +28,7 @@ def about_me
 ```
 ### Open For...
 
-'''C#
+```Csharp
 using System;
 using System.Collections.Generic;
 
@@ -49,7 +49,7 @@ class Program
         };
     }
 }
-'''
+```
 
 ### My Professional Aspirations Goals:-
 
