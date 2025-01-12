@@ -26,6 +26,31 @@ def about_me
             ]
 } 
 ```
+### Open For...
+
+'''C#
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        List<string> cybersecurityRoles = new List<string>
+        {
+            "Cyber Security Analyst",
+            "Network Security Engineer",
+            "Penetration Tester",
+            "Security Consultant",
+            "Incident Responder",
+            "Threat Intelligence Analyst",
+            "Security Architect",
+            "Compliance Analyst"
+        };
+    }
+}
+'''
+
 ### My Professional Aspirations Goals:-
 
 I am committed to building a career in cybersecurity, where I can contribute to safeguarding organizations against evolving cyber threats. My goal is to leverage my knowledge and skills to develop innovative security solutions that protect sensitive data and ensure the integrity of information systems. I am particularly interested in areas such as:
