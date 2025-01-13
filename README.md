@@ -68,13 +68,19 @@ class Program
 
 <h3>Things I learn in 2024</h3>
 <p>
- 
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
- <img alt="Amazon Cloud Platform" src="https://img.shields.io/badge/-Amazon_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS Code -F7B93E?style=flat-square&logo=VS Code&logoColor=white" />
+    <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="Amazon Cloud Platform" src="https://img.shields.io/badge/-Amazon_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Brave Browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-F7B93E?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF4B00?style=flat-square&logo=appveyor&logoColor=white" />
+    <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-3C3F4D?style=flat-square&logo=wireshark&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+    <img alt="Angry IP Scanner" src="https://img.shields.io/badge/-Angry_IP_Scanner-FF4B00?style=flat-square&logo=appveyor&logoColor=white" />
+    <img alt="Autopsy" src="https://img.shields.io/badge/-Autopsy-FF4B00?style=flat-square&logo=appveyor&logoColor=white" />
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
