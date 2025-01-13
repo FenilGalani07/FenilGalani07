@@ -74,12 +74,8 @@ class Program
     <img alt="Brave Browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-F7B93E?style=flat-square&logo=visual-studio-code&logoColor=white" />
-    <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF4B00?style=flat-square&logo=appveyor&logoColor=white" />
-    <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-3C3F4D?style=flat-square&logo=wireshark&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-    <img alt="Angry IP Scanner" src="https://img.shields.io/badge/-Angry_IP_Scanner-FF4B00?style=flat-square&logo=appveyor&logoColor=white" />
-    <img alt="Autopsy" src="https://img.shields.io/badge/-Autopsy-FF4B00?style=flat-square&logo=appveyor&logoColor=white" />
+   
 </p>
 
 ## &#x1f4c8; GitHub Stats
