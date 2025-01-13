@@ -90,14 +90,6 @@ class Program
 
 </details>
 
-<!--
-## 💻My Github Stats 
- 
-<div align="center">
-<a href="http://www.github.com/fenilgalani07"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=fenilgalani07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Jeel's GitHub stats" /></a>
-<a href="https://github.com/fenilgalani07"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenilgalani07&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/fenilgalani07"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fenilgalani07&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
-</div> -->
 
 **I Mostly like this Technologies**
 
