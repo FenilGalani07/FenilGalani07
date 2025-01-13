@@ -74,8 +74,12 @@ class Program
     <img alt="Brave Browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-F7B93E?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF4B00?style=flat-square&logo=appveyor&logoColor=white" />
+    <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-3C3F4D?style=flat-square&logo=wireshark&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-   
+    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+    <img alt="Angry IP Scanner" src="https://img.shields.io/badge/-Angry_IP_Scanner-FF4B00?style=flat-square&logo=appveyor&logoColor=white" />
+    <img alt="Autopsy" src="https://img.shields.io/badge/-Autopsy-FF4B00?style=flat-square&logo=appveyor&logoColor=white" />
 </p>
 
 ## &#x1f4c8; GitHub Stats
@@ -108,12 +112,8 @@ class Program
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-    <img title="Burp Suite" alt="Burp Suite" height=40 src="https://www.acunetix.com/wp-content/uploads/2020/06/burp-suite-logo.png">
-    <img title="Wireshark" alt="Wireshark" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Wireshark_logo.svg/1200px-Wireshark_logo.svg.png">
     <img title="Linux" alt="Linux" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
-    <img title="Ubuntu" alt="Ubuntu" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ubuntu_logo_2.svg/1200px-Ubuntu_logo_2.svg.png">
-    <img title="Angry IP Scanner" alt="Angry IP Scanner" height=40 src="https://angryip.org/images/logo.png">
-    <img title="Autopsy" alt="Autopsy" height=40 src="https://www.sleuthkit.org/autopsy/images/autopsy_logo.png">
+    
   </span>
 </p>
 
