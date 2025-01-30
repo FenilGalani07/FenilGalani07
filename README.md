@@ -7,43 +7,8 @@ As a student, I am actively engaged in exploring various facets of cybersecurity
 
 
 ## 👁️ Visitors
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile Badge</title>
-    <style>
-        .badge {
-            display: flex;
-            align-items: center;
-            background: linear-gradient(90deg, #4e54c8, #8f94fb);
-            border-radius: 10px;
-            padding: 10px 15px;
-            color: white;
-            font-family: 'Arial', sans-serif;
-            text-decoration: none;
-            transition: transform 0.2s;
-        }
-        .badge:hover {
-            transform: scale(1.05);
-        }
-        .badge img {
-            margin-right: 10px;
-        }
-    </style>
-</head>
-<body>
 
-<p align="left">
-    <a class="badge" href="https://github.com/fenilgalani07" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=fenilgalani07" alt="fenilgalani07" width="30" height="30"/>
-        fenilgalani07
-    </a>
-</p>
-
-</body>
-</html>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=fenilgalani07 alt=fenilgalani07/> </p>
 
 
 ### Extras...
