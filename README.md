@@ -5,6 +5,11 @@ Hello, my name is Fenil Galani, and I am a passionate Cyber Security enthusiast 
 As a student, I am actively engaged in exploring various facets of cybersecurity, including network security, ethical hacking, and information security management. My academic journey has equipped me with a solid foundation in both theoretical knowledge and practical skills, enabling me to analyze and address complex security challenges in today’s digital landscape.
 
 
+
+## 👁️ Visitors
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=fenilgalani07 alt=fenilgalani07/> </p>
+
+
 ### Extras...
 
 ```javascript
@@ -26,10 +31,6 @@ def about_me
             ]
 } 
 ```
-
-## 👁️ Visitors
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=fenilgalani07 alt=fenilgalani07/> </p>
-
 
 ### My Professional Aspirations Goals:-
 
