@@ -27,6 +27,10 @@ def about_me
 } 
 ```
 
+## 👁️ Visitors
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=fenilgalani07 alt=fenilgalani07/> </p>
+
+
 ### My Professional Aspirations Goals:-
 
 I am committed to building a career in cybersecurity, where I can contribute to safeguarding organizations against evolving cyber threats. My goal is to leverage my knowledge and skills to develop innovative security solutions that protect sensitive data and ensure the integrity of information systems. I am particularly interested in areas such as:
