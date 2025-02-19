@@ -50,20 +50,15 @@ class Program
             "Ethical Hacker",
             "Penetration Tester",
             "Bug Hunter",
-            "Security Awareness",
             "Cyber Security Analyst",
             "Network Security Engineer",
-            "Integrating Zero-Trust Architecture",
-            "Security Consultant",
             "Ensuring System Integrity",
             "Securing Cloud Environments",
             "Enhancing Data Confidentiality",      
             "Incident Responder",
             "Vulnerability Management",
-            "Threat Detection and Response",
             "Threat Intelligence Analyst",
             "Security Architect",
-            "Compliance Analyst"
         };
     }
 }
