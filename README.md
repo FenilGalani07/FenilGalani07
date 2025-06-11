@@ -27,7 +27,7 @@ def about_me
 ```
 
 
-## 👁️ Visitors
+<h1 align="center">👁️ Visitors</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fenilgalani07" alt="Profile views - fenilgalani07" />
