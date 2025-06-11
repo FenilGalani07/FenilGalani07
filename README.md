@@ -33,7 +33,7 @@ def about_me
 } 
 ```
 
-🎯 My Professional Aspirations & Goals:
+## 🎯 My Professional Aspirations & Goals:
 
 I am committed to building a rewarding and impactful career in cybersecurity 🛡️, where I can play a key role in protecting organizations from ever-evolving cyber threats ⚠️. My aim is to apply my growing technical knowledge and practical skills to:
 
