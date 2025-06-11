@@ -64,10 +64,20 @@ class Program
 }
 ```
 
-<h1 align="center">My TryHackMe Profile</h1>
+<h1 align="center">🚀 My TryHackMe Badge 🛡️</h1>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/TheUndefeatedEagle7.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/TheUndefeatedEagle7.png" alt="TryHackMe Badge - TheUndefeatedEagle7" />
+</p>
+
+<p align="center">
+  🌐 Proud to be leveling up in cybersecurity with <strong>TryHackMe</strong>! <br>
+  💻 This badge represents hours of hands-on labs, real-world hacking scenarios, and non-stop learning. <br>
+  🧠 From basic skills to advanced techniques, I'm continuously sharpening my cybersecurity toolkit.
+</p>
+
+<p align="center">
+  🔐 #CyberSecurity &nbsp; • &nbsp; #TryHackMe &nbsp; • &nbsp; #EthicalHacking &nbsp; • &nbsp; #Infosec &nbsp; • &nbsp; #CTF
 </p>
 
 
