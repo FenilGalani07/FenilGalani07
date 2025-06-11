@@ -76,10 +76,6 @@ class Program
   🧠 From basic skills to advanced techniques, I'm continuously sharpening my cybersecurity toolkit.
 </p>
 
-<p align="center">
-  🔐 #CyberSecurity &nbsp; • &nbsp; #TryHackMe &nbsp; • &nbsp; #EthicalHacking &nbsp; • &nbsp; #Infosec &nbsp; • &nbsp; #CTF
-</p>
-
 
 ## 🔧 Technologies & Tools 🧑‍💻
 
