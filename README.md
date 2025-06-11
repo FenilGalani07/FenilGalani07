@@ -117,6 +117,8 @@ class Program
   </span>
 </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/TheUndefeatedEagle7.png" alt="Your Image Badge" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
