@@ -37,10 +37,13 @@ def about_me
 
 I am committed to building a rewarding and impactful career in cybersecurity 🛡️, where I can play a key role in protecting organizations from ever-evolving cyber threats ⚠️. My aim is to apply my growing technical knowledge and practical skills to:
 
-💡 Develop innovative security solutions
-🔐 Safeguard sensitive data
-🧠 Strengthen organizational resilience
-⚙️ Enhance the integrity and availability of critical information systems
+    💡 Develop innovative security solutions
+
+    🔐 Safeguard sensitive data
+
+    🧠 Strengthen organizational resilience
+
+    ⚙️ Enhance the integrity and availability of critical information systems
 
 ```Csharp
 using System;
