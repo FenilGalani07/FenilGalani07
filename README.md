@@ -29,7 +29,10 @@ def about_me
 
 ## 👁️ Visitors
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=fenilgalani07 alt=fenilgalani07/> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fenilgalani07" alt="Profile views - fenilgalani07" />
+</p>
+
 
 
 ## 🎯 My Professional Aspirations & Goals:
