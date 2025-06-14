@@ -75,7 +75,7 @@ class Program
 <h1 align="center">🚀 My TryHackMe Badge 🛡️</h1>
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4816699" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/TheUndefeatedEagle7.png" alt="Your Image Badge" />
 </p>
 
 <p align="center">
