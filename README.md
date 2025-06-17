@@ -72,19 +72,6 @@ class Program
 }
 ```
 
-<h1 align="center">🚀 My TryHackMe Badge 🛡️</h1>
-
-<p align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/TheUndefeatedEagle7.png" alt="Your Image Badge" />
-</p>
-
-<p align="center">
-  🌐 Proud to be leveling up in cybersecurity with <strong>TryHackMe</strong>! <br>
-  💻 This badge represents hours of hands-on labs, real-world hacking scenarios, and non-stop learning. <br>
-  🧠 From basic skills to advanced techniques, I'm continuously sharpening my cybersecurity toolkit.
-</p>
-
-
 ## 🔧 Technologies & Tools 🧑‍💻
 
 <h3>Things I learn in 2024</h3>
